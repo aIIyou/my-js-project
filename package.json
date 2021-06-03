@@ -1,0 +1,19 @@
+{
+  "name": "my-js-project",
+  "version": "1.0.0",
+  "description": "Learn how to use npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aIIyou/my-js-project.git"
+  },
+  "author": "a11you",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aIIyou/my-js-project/issues"
+  },
+  "homepage": "https://github.com/aIIyou/my-js-project#readme"
+}
