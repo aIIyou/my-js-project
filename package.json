@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aIIyou/my-js-project#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vue": "^2.6.13"
   }
 }
