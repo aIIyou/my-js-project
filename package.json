@@ -1,5 +1,5 @@
 {
-  "name": "my-js-project",
+  "name": "@a11you/my-js-project",
   "version": "1.0.0",
   "description": "Learn how to use npm.",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aIIyou/my-js-project/issues"
   },
-  "homepage": "https://github.com/aIIyou/my-js-project#readme"
+  "homepage": "https://github.com/aIIyou/my-js-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
